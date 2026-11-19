@@ -1,0 +1,6 @@
+attemptId,participant,score,total,percentage,duration,date
+A001,Ananya Roy,9,10,90.00,115,2026-11-15T10:15:00
+A002,Rohan Sen,8,10,80.00,132,2026-11-15T11:20:00
+A004,Arjun Das,7,10,70.00,148,2026-11-17T09:40:00
+A005,Dip Mondal,1,5,20.00,0,2026-11-18T19:30:02
+A006,Dip Mon,2,10,20.00,96,2026-11-18T19:43:10

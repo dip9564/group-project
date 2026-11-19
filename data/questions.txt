@@ -1,0 +1,251 @@
+What is Java?
+A) Programming Language
+B) Operating System
+C) Database
+D) Browser
+A
+
+Which keyword creates an object in Java?
+A) class
+B) new
+C) static
+D) void
+B
+
+Which component of the Java platform executes compiled bytecode?
+A) Java Compiler (javac)
+B) Java Virtual Machine (JVM)
+C) Java Archive Tool (jar)
+D) Javadoc Generator
+B
+
+Which Java keyword prevents a class from being subclassed?
+A) static
+B) abstract
+C) final
+D) private
+C
+
+Which package is automatically imported into every Java source file?
+A) java.util
+B) java.io
+C) java.lang
+D) java.net
+C
+
+Which Java exception type must be either caught or declared in a method's throws clause?
+A) Checked Exception
+B) RuntimeException
+C) Error
+D) NullPointerException
+A
+
+Which OOP principle bundles data and methods together while restricting direct external access to internal state?
+A) Polymorphism
+B) Encapsulation
+C) Inheritance
+D) Association
+B
+
+What allows a subclass to provide a specific implementation of a method already defined in its superclass?
+A) Method Overloading
+B) Method Overriding
+C) Constructor Chaining
+D) Static Binding
+B
+
+Which OOP concept hides complex implementation details and exposes only essential behavior?
+A) Abstraction
+B) Recursion
+C) Serialization
+D) Compilation
+A
+
+What type of relationship does inheritance represent between a subclass and its superclass?
+A) HAS-A relationship
+B) USES-A relationship
+C) IS-A relationship
+D) PART-OF relationship
+C
+
+Which Java construct can define a contract of abstract methods implemented by unrelated classes?
+A) Final class
+B) Interface
+C) Enum constant
+D) Static block
+B
+
+Runtime polymorphism in Java is primarily achieved through which mechanism?
+A) Dynamic method dispatch on overridden methods
+B) Private helper methods
+C) Compile-time constant folding
+D) Variable shadowing
+A
+
+Which data structure follows the Last-In, First-Out (LIFO) principle?
+A) Queue
+B) Stack
+C) Linked List
+D) Heap
+B
+
+What is the average-case time complexity of searching for a key in a well-distributed Hash Table?
+A) O(n)
+B) O(log n)
+C) O(1)
+D) O(n log n)
+C
+
+Which traversal of a Binary Search Tree visits nodes in non-decreasing sorted order?
+A) Pre-order traversal
+B) Post-order traversal
+C) Level-order traversal
+D) In-order traversal
+D
+
+Which data structure is best suited for implementing Breadth-First Search (BFS) on a graph?
+A) Stack
+B) Queue
+C) Priority Queue
+D) Binary Tree
+B
+
+What is the worst-case time complexity of Merge Sort on an array of n elements?
+A) O(n^2)
+B) O(n log n)
+C) O(n)
+D) O(log n)
+B
+
+In a singly linked list with a head pointer only, what is the time complexity of inserting a new node at the beginning?
+A) O(1)
+B) O(log n)
+C) O(n)
+D) O(n^2)
+A
+
+Which CPU scheduling algorithm assigns the processor to the process with the smallest next CPU burst?
+A) First-Come, First-Served (FCFS)
+B) Round Robin (RR)
+C) Shortest Job First (SJF)
+D) Multilevel Feedback Queue
+C
+
+Which of the following is NOT one of the four Coffman necessary conditions for deadlock?
+A) Mutual Exclusion
+B) Hold and Wait
+C) Circular Wait
+D) Preemption Allowed
+D
+
+What is thrashing in a virtual memory operating system?
+A) High CPU utilization from efficient caching
+B) Excessive paging activity where the system spends more time swapping pages than executing instructions
+C) Rapid disk defragmentation during boot
+D) Parallel execution of threads across multiple cores
+B
+
+Which synchronization primitive uses atomic wait and signal operations to control access to shared resources?
+A) Semaphore
+B) Page Table
+C) Translation Lookaside Buffer
+D) Interrupt Vector
+A
+
+Which state transition occurs when a running process requests a blocking disk I/O operation?
+A) Running to Ready
+B) Ready to Running
+C) Running to Waiting (Blocked)
+D) Waiting to Terminated
+C
+
+Which memory management technique divides physical memory into fixed-size frames and logical memory into equal-sized pages?
+A) Paging
+B) Swapping
+C) Compaction
+D) Overlaying
+A
+
+Which layer of the OSI model is responsible for logical addressing and packet routing across networks?
+A) Data Link Layer
+B) Network Layer
+C) Transport Layer
+D) Session Layer
+B
+
+Which transport-layer protocol provides reliable, ordered, connection-oriented byte stream delivery?
+A) UDP
+B) ICMP
+C) TCP
+D) ARP
+C
+
+What is the primary function of the Domain Name System (DNS)?
+A) Encrypting HTTP payloads
+B) Translating human-readable domain names into IP addresses
+C) Assigning MAC addresses to network cards
+D) Routing packets between autonomous systems
+B
+
+Which HTTP status code indicates that a requested resource was not found on the server?
+A) 200
+B) 301
+C) 403
+D) 404
+D
+
+Which protocol automatically assigns IP addresses and network configuration parameters to devices on a local network?
+A) DHCP
+B) SMTP
+C) FTP
+D) SNMP
+A
+
+How many steps are involved in establishing a standard TCP connection?
+A) Two-way handshake
+B) Three-way handshake
+C) Four-way handshake
+D) Single-packet broadcast
+B
+
+What does the 'A' in ACID database transaction properties stand for?
+A) Availability
+B) Atomicity
+C) Authentication
+D) Aggregation
+B
+
+Which SQL clause is used to filter grouped aggregate results after a GROUP BY operation?
+A) WHERE
+B) ORDER BY
+C) HAVING
+D) DISTINCT
+C
+
+A database table is in Second Normal Form (2NF) if it is in 1NF and has no what?
+A) Foreign keys
+B) Composite primary keys
+C) Partial dependencies on a composite primary key
+D) Unique constraints
+C
+
+Which database constraint uniquely identifies each row in a relational table and cannot contain NULL values?
+A) Foreign Key
+B) Check Constraint
+C) Primary Key
+D) Default Constraint
+C
+
+Which data structure is most commonly used by relational database engines to implement ordered table indexes?
+A) B+ Tree
+B) Singly Linked List
+C) Circular Queue
+D) Adjacency Matrix
+A
+
+Which SQL command removes all rows from a table while retaining the table schema and typically deallocating data pages?
+A) DROP TABLE
+B) TRUNCATE TABLE
+C) ALTER TABLE
+D) REVOKE
+B

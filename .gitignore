@@ -1,0 +1,23 @@
+# Compiled bytecode & packaged JARs
+out/
+out-tests/
+build/
+*.class
+*.jar
+
+# IDE and editor files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+__pycache__/
